@@ -1,0 +1,6 @@
+@Unibet_HostAddress = http://localhost:5173
+
+GET {{Unibet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
